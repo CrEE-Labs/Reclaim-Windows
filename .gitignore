@@ -1,0 +1,14 @@
+# Windows system files
+Thumbs.db
+Desktop.ini
+ehthumbs.db
+$RECYCLE.BIN/
+
+# PowerShell history and temporary files
+*.log
+*.tmp
+.history/
+
+# Local code editor configurations
+.vscode/
+.idea/
